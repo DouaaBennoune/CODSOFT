@@ -14,7 +14,6 @@ effective tool for basic conversational tasks.
 - User-Friendly Interface: A welcoming homepage with clear instructions for users
    to start their conversation.
 
-# You will find the code in the Multilingual Rule-Based Chatbot Code file
 
 # Getting Started
 
